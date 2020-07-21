@@ -1,5 +1,8 @@
 # Calculator
 Dark and light mode calculator
+
+![alt tag](https://drive.google.com/file/d/1RnqY1m87ZHZI-z25pX06gZ0jKHShMBbi/view?usp=sharing)
+
 # Getting Started:
 calculator app:
 - Dark mode
