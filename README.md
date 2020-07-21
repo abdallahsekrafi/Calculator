@@ -1,7 +1,7 @@
 # Calculator
 Dark and light mode calculator
 
-![](imgs/darck.png)
+❮img src="imgs/darck.png" width="100" ❯
 
 
 # Getting Started:
