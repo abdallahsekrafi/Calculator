@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#455870</color>
+    <color name="colorPrimaryDark">#FFFFFF</color>
+    <color name="colorAccent">#454545</color>
+    <color name="numberLayout">#FFFFFF</color>
+    <color name="numberColor">#414141</color>
+    <color name="operationColor">#617BE3</color>
+    <!--<color name="numberLayout">#414141</color>
+    <color name="numberColor">#FFFFFF</color>
+    <color name="colorPrimaryDark">#414141</color>-->
+</resources>

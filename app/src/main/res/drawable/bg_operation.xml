@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- shadow -->
+<item android:right="2dp" android:bottom="2dp"
+    android:left="1dp" android:top="1dp">
+    <shape >
+        <solid android:color="@color/operationColor" />
+        <corners android:radius="50dp" />
+    </shape>
+</item>
+<!-- foreground -->
+<item android:top="3dp" android:left="3dp"
+    android:bottom="2dp" android:right="2dp">
+    <shape>
+        <solid android:color="@color/numberLayout" />
+        <corners android:radius="50dp" />
+    </shape>
+</item>
+</layer-list>
