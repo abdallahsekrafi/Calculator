@@ -1,7 +1,7 @@
 # Calculator
 Dark and light mode calculator
 
-❮img src="imgs/darck.png" width="100" ❯
+<img src="imgs/darck.png" width="300"> <img src="imgs/light.png" width="300">
 
 
 # Getting Started:
